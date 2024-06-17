@@ -1,20 +1,20 @@
 const feedbacks = [
     {
-      image: "./Crafts/testimonials/p1.jpeg",  
+      image: "./assets/testimonials/p1.jpeg",  
       name: "Henry Kapoor",
       designation: "Web Developer",
       feedback:
         "I recently purchased a set of handmade candles from this store, and I'm absolutely in love with them! The quality is exceptional, and the attention to detail is evident in every piece. They also make my home smell wonderful. I'll definitely be coming back for more!",
     },
     {
-      image: "./Crafts/testimonials/p2.jpeg",
+      image: "./assets/testimonials/p2.jpeg",
       name: "Michael Smith",
       designation: "CEO",
       feedback:
-        "I ordered a custom-made wooden jewelry box for my wife, and it exceeded all my expectations. The craftsmanship is superb, and you can tell it was made with love and care. My wife was thrilled with the gift, and it’s a beautiful addition to our home.",
+        "I ordered a custom-made wooden jewelry box for my wife, and it exceeded all my expectations. The assetsmanship is superb, and you can tell it was made with love and care. My wife was thrilled with the gift, and it’s a beautiful addition to our home.",
     },
     {
-      image: "./Crafts/testimonials/p3.png",  
+      image: "./assets/testimonials/p3.png",  
       name: "Sophia Martinez",
       designation: "UX Designer",
       feedback:

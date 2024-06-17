@@ -29,14 +29,19 @@ RealmRadiance is a simple, visually appealing, and mobile-friendly website desig
 To run this website locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
  git clone https://github.com/yourusername/RealmRadiance.git
  
 2. **Navigate to the project directory:**
    cd RealmRadiance
+   
 3. **Open index.html in your web browser:**
    open index.html
-   
-   ###Usage
+
+## Usage
 Navigate through the website using the navigation menu in the header. Explore the featured products, learn about the business in the About section, and use the contact form to get in touch.
+
+## Technologies Used
+HTML
+CSS
+JavaScript
    

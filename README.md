@@ -21,7 +21,7 @@ RealmRadiance is a simple, visually appealing, and mobile-friendly website desig
 - The website layout adjusts appropriately for different screen sizes, including desktop, tablet, and mobile devices.
 
 ### 4. Bonus Feature (Optional)
-- **Image Slider**: A simple image slider in the featured section allows users to scroll through multiple product images.
+- **Image Slider**: A simple image slider in the products section allows users to scroll through multiple product images of different crafting types, website offers total 8 types of handmade crafting materials.
 - Testimonials are also added.
 
 ## Installation

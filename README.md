@@ -7,9 +7,11 @@ RealmRadiance is a simple, visually appealing, and mobile-friendly website desig
 ### 1. Homepage
 - **Header**: Includes the business name and navigation menu with links to Home, Products, and Contact pages.
 - **Featured Section**: Showcases a few products with images and brief descriptions.
+- **Products Section**: Variety of products of 8 types of handmade crafts with information about price, name of the type, Slider of 3 images for each type of craft.
 - **About Section**: Introduces the business, its mission, and its values.
 - **Contact Section**: Contains a form for customers to submit inquiries (fields: name, email, message).
 - **Footer**: Includes social media links (Facebook, Instagram, Twitter).
+  
 
 ### 2. JavaScript
 - **Form Validation**: Ensures that the contact form fields are correctly filled out:

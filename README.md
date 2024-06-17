@@ -2,6 +2,10 @@
 
 RealmRadiance is a simple, visually appealing, and mobile-friendly website designed for a small business specializing in handmade crafts. The website showcases the products, introduces the business, and allows customers to contact the business for inquiries.
 
+## Live Demo
+
+You can view the live website here: [RealmRadiance Live](https://rutujamadane19.github.io/Rutuja_WCE_Assessment/)
+
 ## Features
 
 ### 1. Homepage
